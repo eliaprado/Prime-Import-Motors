@@ -47,8 +47,8 @@
 </body>
 </html>
 
-[index.html](https://github.com/user-attachments/files/23966025/index.html)
-[contact.html](https://github.com/user-attachments/files/23966026/contact.html)
+[index.html](https://github.com/user-attachments/files/23966206/index.html)
+[contact.html](https://github.com/user-attachments/files/23966210/contact.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -81,7 +81,7 @@
   </footer>
 </body>
 </html>
-[style.css](https://github.com/user-attachments/files/23966040/style.css)
+[style.css](https://github.com/user-attachments/files/23966213/style.css)
 body{margin:0;font-family:Arial;background:#0d1b2a;color:white}
 .hero{padding:40px 20px;text-align:center;background:#1b263b}
 .logo{width:160px;margin-bottom:10px}
@@ -91,8 +91,3 @@ body{margin:0;font-family:Arial;background:#0d1b2a;color:white}
 .car-card{background:#11203a;padding:10px;border-radius:10px}
 .car-card img{width:100%;border-radius:10px}
 .footer{text-align:center;padding:20px;margin-top:20px;color:#a0aec0}
-![logo](https://github.com/user-attachments/assets/6c2c5223-9025-4909-a7d3-2104288af541)
-�PNG
-
-PREM![car1](https://github.com/user-attachments/assets/2da22ee6-38f1-4393-80dd-74dd2412f466)
-IUM_����CAR1_PREMIUMLOGO_PLACEHOLDER![car2](https://github.com/user-attachments/assets/62af27a4-9674-42f0-8397-22fca1fb5414)
